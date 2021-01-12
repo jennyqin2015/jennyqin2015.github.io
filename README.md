@@ -57,23 +57,6 @@
 搭建博客如果遇到问题可以看看我教程[Jekyll搭建个人博客](https://leopardpan.cn/2016/10/jekyll_tutorials1/)。
 
 
-### 赞助
-
-你可以通过下方二维码赞助本项目，资金将用于服务器开销以及今后的公共服务
-
-感谢所有赞助过本项目的朋友，你们都为本项目贡献了自己的一份力量
-
-<details>
-
-<summary>微信二维码</summary>
-<img width="300" src="https://leopardpan.github.io/images/payimg/weipayimg.jpg" alt="wechat">
-</details>
-
-<details>
-
-<summary>支付宝二维码</summary>
-<img width="300" src="https://leopardpan.github.io/images/payimg/alipayim.jpg" alt="alipay">
-</details>
 
 
 ### 效果预览
